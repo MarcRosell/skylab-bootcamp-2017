@@ -1,4 +1,4 @@
-# TODO _LIST_
+# TODO _LIST_ ✅
 *quiz*
 
     * working tools
@@ -13,7 +13,7 @@
 ó
 [1]
 [1]: http://i.imgur.com/v8IVDka.jpg
-
+dsdsad
 <table>
     <tr>
         <td> Q TAL </td>
