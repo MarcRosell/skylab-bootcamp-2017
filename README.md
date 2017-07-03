@@ -1,27 +1,40 @@
-# TODO _LIST_ ✅
-*quiz*
+# _TODO LIST_ ✅
 
-    * working tools
-    * sublime
-    * comand line
-    * markdown
-    * preview
+# Class 1
 
-![m'lady](http://i.imgur.com/v8IVDka.jpg)
-~~ Q TAL ~~ 
-<a href="http://i.imgur.com/v8IVDka.jpg">ecosia</a>
-ó
-[1]
-[1]: http://i.imgur.com/v8IVDka.jpg
-dsdsad
+## Hacer listas
+    *Poner 4 espacios +
+    *guai
+
+## Hacer tablas
 <table>
     <tr>
-        <td> Q TAL </td>
-        <td> que passa</td>
-    </tr>
-    <tr>
-        <td> xd </td>
-        <td> tabla </td>
+        <td> Lunes </td>
+        <td> Martes</td>
     </tr>
 </table>
+
+## Hacer listas
+subir fotos:
+referenciarlo: [i]: http//...
+ponerla: [i]
+
+## GIT
+git init
+git add
+git rm
+git commit -m
+git remote add origin "link"
+git remote
+git push 'origin master'
+
+##console
+mkdir
+cd
+.
+..
+ls
+touch
+clear
+
 
